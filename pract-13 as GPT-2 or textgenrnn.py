@@ -1,4 +1,4 @@
-
+python -m pip install transformers datasets torch
 
 import os
 import urllib.request
