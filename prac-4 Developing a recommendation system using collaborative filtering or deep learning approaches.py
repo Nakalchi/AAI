@@ -1,3 +1,8 @@
+https://github.com/lxbanov/recsys-movielens100k
+use above link to download require file for this practicale
+
+python -m pip install tensorflow numpy pandas matplotlib
+
 
 import pandas as pd
 import numpy as np
