@@ -1,3 +1,4 @@
+python -m pip install transformers torch
 
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
