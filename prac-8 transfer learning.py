@@ -1,4 +1,4 @@
-
+python -m pip install torch torchvision matplotlib numpy--in cmd
 
 import torch
 import torch.nn as nn
